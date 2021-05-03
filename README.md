@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deploy to github pages
+`yarn deploy`
+You can visit the deployed app, at https://mikaojk.github.io/todo-list-react
+
 ## Available Scripts
 
 In the project directory, you can run:
