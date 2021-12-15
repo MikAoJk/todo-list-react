@@ -1,10 +1,10 @@
-import React, { useState } from 'react';
+import React, {useState} from 'react';
 
 interface Props {
     addTodo: AddTodo;
 }
 
-export const AddTodoForm: React.FC<Props> = ({ addTodo }) => {
+export const AddTodoForm: React.FC<Props> = ({addTodo}) => {
     const [text, setText] = useState('');
 
     return (

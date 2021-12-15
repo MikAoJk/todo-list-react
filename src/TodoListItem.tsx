@@ -5,11 +5,11 @@ interface Props {
     toggleTodo: ToggleTodo;
 }
 
-export const TodoListItem: React.FC<Props> = ({ todo, toggleTodo }) => {
+export const TodoListItem: React.FC<Props> = ({todo, toggleTodo}) => {
     return (
         <li>
             <label
-                style={{ textDecoration: todo.complete ? 'line-through' : undefined }}
+                style={{textDecoration: todo.complete ? 'line-through' : undefined}}
             >
                 <input
                     type="checkbox"

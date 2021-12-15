@@ -1,20 +1,16 @@
 {
   "name": "todo-list-react",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "homepage": "http://mikaojk.github.io/todo-list-react",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.0.4",
-    "@testing-library/user-event": "^12.1.5",
-    "@types/jest": "^26.0.14",
-    "@types/node": "^14.11.1",
-    "@types/react": "^16.9.49",
-    "@types/react-dom": "^16.9.8",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0",
+    "@types/node": "^16.11.1",
+    "@types/react": "^17.0.37",
+    "@types/react-dom": "^17.0.11",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-scripts": "^4.0.3",
-    "typescript": "~4.0.3"
+    "typescript": "~4.5.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,6 +36,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0"
-  }
+    "gh-pages": "^3.2.3"
+  },
+  "packageManager": "yarn@3.1.1"
 }
