@@ -4,7 +4,7 @@ import {AddTodoForm} from './AddTodoForm';
 
 const initialTodos: Todo[] = [
     {
-        text: 'Walk the dog',
+        text: 'Feed the cat',
         complete: false,
     },
     {
