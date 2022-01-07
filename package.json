@@ -1,8 +1,8 @@
 {
   "name": "todo-list-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
-  "homepage": "https://mikaojk.github.io/todo-list-react",
+  "homepage": "http://mikaojk.github.io/todo-list-react",
   "dependencies": {
     "@types/node": "^16.11.1",
     "@types/react": "^17.0.37",

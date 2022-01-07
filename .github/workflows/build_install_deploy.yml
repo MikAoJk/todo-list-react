@@ -2,7 +2,7 @@ name: build,install and deploy main branch
 on:
   push:
     branches:
-      - main
+      - deploy
 jobs:
   build:
     name: install, build and deploy
@@ -18,9 +18,8 @@ jobs:
       - name: Build
         run: |
           yarn run build
-      - name: Deploy
-        run: |
-          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-          yarn run deploy -- -u "github-actions-bot <support+actions@github.com>"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@4.2.0
+        with:
+          branch: gh-pages
+          folder: build
