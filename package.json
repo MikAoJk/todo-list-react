@@ -4,13 +4,13 @@
   "private": true,
   "homepage": "http://mikaojk.github.io/todo-list-react",
   "dependencies": {
-    "@types/node": "^16.11.1",
-    "@types/react": "^17.0.37",
+    "@types/node": "^17.0.15",
+    "@types/react": "^17.0.39",
     "@types/react-dom": "^17.0.11",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "^4.0.3",
-    "typescript": "~4.5.0"
+    "react-scripts": "^5.0.0",
+    "typescript": "~4.5.5"
   },
   "scripts": {
     "start": "react-scripts start",
