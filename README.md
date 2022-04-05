@@ -1,3 +1,5 @@
+[![build,install and deploy main branch](https://github.com/MikAoJk/todo-list-react/actions/workflows/build_install_deploy.yml/badge.svg?branch=main)](https://github.com/MikAoJk/todo-list-react/actions/workflows/build_install_deploy.yml)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deploy to github pages manually
