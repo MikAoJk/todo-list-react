@@ -4,13 +4,13 @@
   "private": true,
   "homepage": "http://mikaojk.github.io/todo-list-react",
   "dependencies": {
-    "@types/node": "^17.0.23",
-    "@types/react": "^17.0.43",
-    "@types/react-dom": "^17.0.14",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.0",
-    "typescript": "~4.6.0"
+    "@types/node": "^17.0.31",
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^18.0.3",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-scripts": "5.0.1",
+    "typescript": "^4.6.4"
   },
   "resolutions": {
     "minimist": "^1.2.6",
@@ -24,7 +24,9 @@
     "dns-packet": "^1.3.2",
     "browserslist": "^4.16.5",
     "najv": "^6.12.3",
-    "tmpl": "^1.0.5"
+    "tmpl": "^1.0.5",
+    "ejs": "^3.1.7",
+    "async": "^2.6.4"
   },
   "scripts": {
     "start": "react-scripts start",
