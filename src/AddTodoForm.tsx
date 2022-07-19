@@ -20,7 +20,7 @@ export const AddTodoForm: React.FC<Props> = ({addTodo}) => {
                 type="submit"
                 onClick={e => {
                     e.preventDefault();
-                    addTodo(text);
+                    text !== '' && addTodo(text);
                     setText('');
                 }}
             >
