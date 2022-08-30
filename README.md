@@ -43,8 +43,8 @@ Creating a docker image should be as simple as `docker build -t todo-list-react 
 
 ## Deploy to github pages manually
 
-**NOTE**
-Need to have a github token in order to deploy to github pages
+> **Note**
+> Need to have a GitHub token in order to deploy to GitHub pages
 
 `yarn deploy`
 You can visit the deployed app, at https://mikaojk.github.io/todo-list-react
