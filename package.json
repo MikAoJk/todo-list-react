@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://mikaojk.github.io/todo-list-react",
   "dependencies": {
-    "@types/node": "^18.7.14",
+    "@types/node": "^18.11.0",
     "@types/react": "^18.0.21",
     "@types/react-dom": "^18.0.6",
     "react": "^18.2.0",
