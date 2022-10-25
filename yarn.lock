@@ -9835,6 +9835,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"minimatch@npm:^3.0.5":
+  version: 3.1.2
+  resolution: "minimatch@npm:3.1.2"
+  dependencies:
+    brace-expansion: ^1.1.7
+  checksum: c154e566406683e7bcb746e000b84d74465b3a832c45d59912b9b55cd50dee66e5c4b1e5566dba26154040e51672f9aa450a9aef0c97cfc7336b78b7afb9540a
+  languageName: node
+  linkType: hard
+
 "minimist@npm:^1.2.6":
   version: 1.2.6
   resolution: "minimist@npm:1.2.6"
@@ -13393,6 +13402,7 @@ __metadata:
     "@types/react": ^18.0.22
     "@types/react-dom": ^18.0.7
     gh-pages: ^4.0.0
+    minimatch: ^3.0.5
     react: ^18.2.0
     react-dom: ^18.2.0
     react-scripts: 5.0.1
