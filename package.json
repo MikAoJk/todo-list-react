@@ -5,7 +5,7 @@
   "homepage": "http://mikaojk.github.io/todo-list-react",
   "dependencies": {
     "@types/node": "^18.11.9",
-    "@types/react": "^18.0.25",
+    "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.9",
     "minimatch": "^5.1.0",
     "react": "^18.2.0",
