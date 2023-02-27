@@ -9825,12 +9825,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"minimatch@npm:^7.0.0":
-  version: 7.0.0
-  resolution: "minimatch@npm:7.0.0"
+"minimatch@npm:^7.2.0":
+  version: 7.2.0
+  resolution: "minimatch@npm:7.2.0"
   dependencies:
     brace-expansion: ^2.0.1
-  checksum: caceffe3489e022c7a8421100b3653ba4c03ebff1e704da8aa5d22c500ec679079163c214eeaf25a52840464fad67ab9a606394ef7302775c5d9d152a76b0ecc
+  checksum: f3c66f60e097fb9e1550a1b6ce5d8588d3cdfdb22c1bde9a293bd99e7a01833be2b975795299b50b9456542b239b2f0ba5edba71728ec644e5ca14d09d0cf620
   languageName: node
   linkType: hard
 
@@ -13408,7 +13408,7 @@ __metadata:
     "@types/react": ^18.0.28
     "@types/react-dom": ^18.0.11
     gh-pages: ^5.0.0
-    minimatch: ^7.0.0
+    minimatch: ^7.2.0
     react: ^18.2.0
     react-dom: ^18.2.0
     react-scripts: 5.0.1
