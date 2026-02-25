@@ -10235,12 +10235,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"minimatch@npm:^8.0.3":
-  version: 8.0.3
-  resolution: "minimatch@npm:8.0.3"
+"minimatch@npm:^8.0.5":
+  version: 8.0.6
+  resolution: "minimatch@npm:8.0.6"
   dependencies:
     brace-expansion: ^2.0.1
-  checksum: 8957d8105be6729bf1d3af9c410b2a38ffcf3cd17d4ffaf715b2aa4841490aaa82f1ebff785e71b5b97747199ccc61027db597495941cf46243d9a64382e1560
+  checksum: 798a1c882efd6a8ed2ce6999d2ffe682df9eacd254065aecac29e2c3cf740416f91f4832d32ce971fd594ef543eb5696749e4f1e9de9e70def863d7122d97fee
   languageName: node
   linkType: hard
 
@@ -13895,7 +13895,7 @@ __metadata:
     "@types/react": ^18.0.33
     "@types/react-dom": ^18.0.11
     gh-pages: ^5.0.0
-    minimatch: ^8.0.3
+    minimatch: ^8.0.5
     react: ^18.2.0
     react-dom: ^18.2.0
     react-scripts: 5.0.1
